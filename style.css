@@ -29,7 +29,7 @@ main {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100vh;
+	height: 90vh;
 }
 
 .column1 {
@@ -110,6 +110,7 @@ header a:hover {
 @media only screen and (max-width: 600px) {
 	main {
 		display: block;
+		margin-top: 0.5rem;
 	}
 
 	.column1,
