@@ -29,7 +29,7 @@ main {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100vh;
+	height: 90vh;
 }
 
 .column1 {
@@ -60,11 +60,6 @@ button {
 	border: none;
 	margin-top: 5rem;
 }
-
-/* h3,
-button {
-	color: hsl(0, 0%, 95%);
-} */
 
 .column1,
 .column2,
@@ -115,6 +110,7 @@ header a:hover {
 @media only screen and (max-width: 600px) {
 	main {
 		display: block;
+		margin-top: 0.6rem;
 	}
 
 	.column1,
