@@ -41,3 +41,7 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 
 -Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
 -Weights: 700
+<<<<<<< HEAD
+=======
+
+>>>>>>> a7859fee5440ae79c7fddaca9573a435f324ce3e
