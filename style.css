@@ -3,6 +3,7 @@
 body {
 	background-color: hsl(0, 0%, 95%);
 }
+
 body {
 	margin: 0;
 	padding: 0;
@@ -48,7 +49,8 @@ main {
 	border-top-right-radius: 0.5rem;
 }
 
-h3 {
+div > h2 {
+	color: hsla(0, 0%, 100%, 0.75);
 	font-family: "Big Shoulders Display", cursive;
 	font-weight: 700;
 }
@@ -85,14 +87,14 @@ p {
 	color: hsl(179, 100%, 13%);
 }
 
-.column1 button:hover {
+.column1 button:active {
 	background-color: hsl(31, 77%, 52%);
 	color: hsl(0, 0%, 95%);
 	cursor: pointer;
 	border: 1.5px solid hsl(0, 0%, 95%);
 }
 
-.column2 button:hover,
+.column2 button:active,
 header a:hover {
 	background-color: hsl(184, 100%, 22%);
 	color: hsl(0, 0%, 95%);
@@ -100,7 +102,7 @@ header a:hover {
 	border: 1.5px solid hsl(0, 0%, 95%);
 }
 
-.column3 button:hover {
+.column3 button:active {
 	background-color: hsl(179, 100%, 13%);
 	color: hsl(0, 0%, 95%);
 	cursor: pointer;
