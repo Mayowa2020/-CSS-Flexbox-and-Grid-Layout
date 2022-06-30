@@ -18,6 +18,7 @@ header a {
 	border: 1.5px solid hsl(184, 100%, 22%);
 	padding: 0.5rem 0.5rem;
 	border-radius: 1rem;
+	background-color: hsl(0, 0%, 95%);
 }
 
 header a:hover {
